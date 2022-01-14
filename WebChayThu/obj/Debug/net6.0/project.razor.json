@@ -16303,13 +16303,38 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\admin\\source\\repos\\WebChayThu\\WebChayThu\\Views\\Home\\AboutUs.cshtml",
+      "TargetPath": "Views\\Home\\AboutUs.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\admin\\source\\repos\\WebChayThu\\WebChayThu\\Views\\Home\\Testimonials.cshtml",
+      "TargetPath": "Views\\Home\\Testimonials.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\admin\\source\\repos\\WebChayThu\\WebChayThu\\Views\\Home\\ContactUs.cshtml",
+      "TargetPath": "Views\\Home\\ContactUs.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\admin\\source\\repos\\WebChayThu\\WebChayThu\\Views\\Home\\Privacy.cshtml",
       "TargetPath": "Views\\Home\\Privacy.cshtml",
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\admin\\source\\repos\\WebChayThu\\WebChayThu\\Views\\Blog\\BlogDetail.cshtml",
+      "TargetPath": "Views\\Blog\\BlogDetail.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\admin\\source\\repos\\WebChayThu\\WebChayThu\\Views\\_ViewStart.cshtml",
       "TargetPath": "Views\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\admin\\source\\repos\\WebChayThu\\WebChayThu\\Views\\Home\\Blog.cshtml",
+      "TargetPath": "Views\\Home\\Blog.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -16320,6 +16345,11 @@
     {
       "FilePath": "c:\\Users\\admin\\source\\repos\\WebChayThu\\WebChayThu\\Views\\Shared\\_Layout.cshtml",
       "TargetPath": "Views\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\admin\\source\\repos\\WebChayThu\\WebChayThu\\Views\\Home\\Menu.cshtml",
+      "TargetPath": "Views\\Home\\Menu.cshtml",
       "FileKind": "mvc"
     },
     {

@@ -23,6 +23,27 @@ namespace WebChayThu.Controllers
             return View();
         }
 
+        public IActionResult Menu()
+        {
+            return View();
+        }
+        public IActionResult AboutUs()
+        {
+            return View();
+        }
+        public IActionResult ContactUs()
+        {
+            return View();
+        }
+        public IActionResult Blog()
+        {
+            return View();
+        }
+        public IActionResult Testimonials()
+        {
+            return View();
+        }
+
         public IActionResult Privacy()
         {
             return View();
